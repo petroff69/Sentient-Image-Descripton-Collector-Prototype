@@ -39,7 +39,10 @@ export default function RootLayout({
 						<A href="https://claude.ai/">Claude</A>
 					</p>
 					<p>
-						<A href="https://github.com/petroff69/Sentient-Image-Descripton-Collector-Prototype">source</A>
+						<A href="https://github.com/petroff69/Sentient-Image-Descripton-Collector-Prototype">source</A> /{" "}
+						<A>
+							2024-2025
+						</A>
 					</p>
 				</footer>
 
