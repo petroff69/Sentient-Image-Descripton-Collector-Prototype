@@ -1,4 +1,3 @@
-Here’s an improved version of your project description for GitHub:
 
 ### AI Image Scanning Prototype
 
